@@ -3,9 +3,10 @@ Numberscope will be a free web tool for researchers, citizen-scientists, and art
 
 ![Example1](/assets/example-diff-200.png) ![Example2](/assets/example-turtle-200.png) ![Example3](/assets/example-stats-200.png)
 
-The two main repositories are:
+The main repositories are:
 - [frontscope](https://github.com/numberscope/frontscope), the client-side web app
 - [backscope](https://github.com/numberscope/backscope), the server-side database
+- [numberscope.github.io](https://github.com/numberscope/numberscope.github.io), the documentation
 
 # Contact
 Please feel invited to contact the project director:  [Katherine E. Stange](https://math.katestange.net)
