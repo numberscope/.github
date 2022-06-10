@@ -9,7 +9,9 @@ The main repositories are:
 - [numberscope.github.io](https://github.com/numberscope/numberscope.github.io), the documentation
 
 # Contact
-Please feel invited to contact the project director:  [Katherine E. Stange](https://math.katestange.net)
+Please feel invited to contact us.
+Project directors:  [Katherine E. Stange](https://math.katestange.net) and [Glen Whitney](http://studioinfinity.org/)
+Lead developer:  [Liam Mulhall](https://liammulhall.com/)
 
 # See also
 Katherine E. Stange's numberscope info: https://math.katestange.net/numberscope/
