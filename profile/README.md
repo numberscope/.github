@@ -5,7 +5,9 @@ Numberscope will be a free web tool for researchers, students, citizen-scientist
 
 # Live demos
 
-You can test some proof-of-concept standalone visualizers (not running the numberscope platform yet) at [https://numberscope.github.io/pages/scope.html](https://numberscope.github.io/pages/scope.html).
+You can test some prototype standalone visualizers (not running on the numberscope platform yet):
+- [PDF Slides from a talk (explaining what they do)](https://math.colorado.edu/~kstange/talks/JMM-Numberscope.pdf)
+- [Try them live here!](https://numberscope.github.io/pages/scope.html)
 
 # Main repositories
 - [frontscope](https://github.com/numberscope/frontscope), the client-side web app
