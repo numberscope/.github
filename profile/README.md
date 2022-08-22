@@ -17,7 +17,7 @@ You can test some prototype standalone visualizers (not running on the numbersco
 # Contact
 Please feel invited to contact us:
 - Project directors:  [Katherine E. Stange](https://math.katestange.net) and [Glen Whitney](http://studioinfinity.org/)
-- Lead developer:  [Liam Mulhall](https://liammulhall.com/)
+- Lead developer:  [Liam Mulhall](https://www.liammulh.dev)
 
 # See also
 Katherine E. Stange's numberscope info: https://math.katestange.net/numberscope/
