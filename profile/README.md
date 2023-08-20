@@ -9,15 +9,17 @@ You can test some prototype standalone visualizers (not running on the numbersco
 - [PDF Slides from a talk (explaining what they do)](https://math.colorado.edu/~kstange/talks/JMM-Numberscope.pdf)
 - [Try them live here!](https://numberscope.github.io/pages/scope.html)
 
+The alpha or pre-alpha Numberscope platform is operational and publicly accessible.
+- [Numberscope](http://numberscope.colorado.edu)
+
 # Main repositories
 - [frontscope](https://github.com/numberscope/frontscope), the client-side web app
 - [backscope](https://github.com/numberscope/backscope), the server-side database
-- [numberscope.github.io](https://github.com/numberscope/numberscope.github.io), the documentation
+- [numberscope.github.io](https://github.com/numberscope/numberscope.github.io), a demo site with operational prototypes
 
 # Contact
 Please feel invited to contact us:
 - Project directors:  [Katherine E. Stange](https://math.katestange.net) and [Glen Whitney](http://studioinfinity.org/)
-- Lead developer:  [Liam Mulhall](https://www.liammulh.dev)
 
 # See also
 Katherine E. Stange's numberscope info: https://math.katestange.net/numberscope/
